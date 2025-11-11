@@ -1,0 +1,1009 @@
+data;valor;membro_id;categoria;descricao
+2024-01-03;-407,35;Felipe;alimentacao;Supermercado semanal
+2024-01-05;8000,00;Calebe;Salario;
+05/01/2024;-111.35;C.alebe;Combustivel;Combustivel
+2024-01-05;-17.20;Rafael;Supermercado;Café/Lanche
+2024-01-07;-3,011.26;Calebe;Aluguel;Aluguel residencial
+2024-01-07;-2710,13;Calebe;Moradia;Aluguel residencial
+01-08-2024;-450,40;Felipe;alimentacao;
+2024-01-10;-774.32;Calebe;Combustivel;Parcela carro/seguro
+01-14-2024;-154,89;Calebe;Estudos;assinatura educacional
+2024-01-15;R$ 4000,00;Felipe-M;Depósito;Salario mensal de Felipe
+2024-01-15;R$ -16,75;Felipe;Alimentacao;Café/Lanche
+15/01/2024;-177.11;Calebe;TRANSPORTE;Combustivel
+2024-01-16;-14.62;Rafael;Alimentacao;Café/Lanche
+2024-01-16;R$ -442.20;Felipe-M;Mercado;Supermercado semanal
+16/01/2024;-34.12;Rafael;Alimentacao;Delivery
+2024-01-20;R$ -19.84;Rafael;Combustivel;estacionamento
+21/01/2024;R$ -27.41;Felipe;Transporte;Estacionamento
+2024-01-22;-18.37;Felipe;Lazer;App de musica
+2024-01-22;R$ -42.19;Rafael;Cinema/Show;
+01-22-2024;-33.68;Rafael;ALIMENTACAO;Lanche
+2024-01-22;-18,37;Felipe;lazer;
+2024-01-22;-42.19;Rafa;Entretenimento;App de musica
+2024-04-27;R$ -84.54;Rafael;lazer;cinema
+01-23-2024;-184.81;Rafael;Streaming;Show/Evento
+2024-01-23;-187.18;Calebe;TRANSPORTE;Combustivel
+2024-01-24;-154.15;Rafael;LAZER;
+2024-01-24;R$ -470.74;Felipe;ALIMENTACAO;
+2024-01-24;-170,88;Calebe;Transporte;Combustivel
+01-25-2024;-37,20;Rafael;LAZER;App de musica
+2025-01-06;R$ -44.41;Rafael;Supermercado;Delivery
+25/01/2024;-188.65;Felipe;Saude;Consulta
+25/01/2024;-59.65;Rafel;Alimentacao;
+26/01/2024;-38.90;Rafael;Entretenimento;App de musica
+2024-01-26;-43.22;Rafael;lazer;App de musica
+01-26-2024;R$ -43,22;Rafael;Lazer;App de musica
+2024-01-28;R$ -1248.14;Calebe;Estudos;Transferencia para Poupanca
+01-28-2024;-37.96;Felipe;Streaming;App de musica
+01-31-2024;-94.51;Rafael;Alimentacao;Jantar fora
+2024-01-31;-424.13;Felipe;alimentacao;Supermercado semanal
+01-31-2024;-471,26;Felipe;ALIMENTACAO;Supermercado semanal
+01/02/2024;-562,56;Felipe;Mercado;Supermercado semanal
+01/02/2024;-562,56;Felipe;Alimentacao;Supermercado semanal
+2025-02-28;-1342.08;Felipe;Cursos;
+06/02/2024;-26,28;Rafael;LAZER;App de musica
+2024-02-07;-3635.56;Calebbe;Moradia;Aluguel residencial
+2024-02-07;-3635,56;Calebe;Aluguel/Moradia;Aluguel residencial
+02-07-2024;8000.00;Calebe;Salario;Salario mensal de Calebe
+07/02/2024;R$ 8.000,00;Calebe;Salario;Salario mensal de Calebe
+08/02/2024;-47.62;Rafael;Uber/taxi;Estacionamento
+2024-02-08;-47.62;Rafael;Gastos com Carro;Estacionamento
+02-09-2024;R$ -553,94;Felipe;ALIMENTACAO;Supermercado semanal *
+02-09-2024;-40,72;Rafael;Mercado;Café/Lanche
+2024-02-10;-934.86;Calebe;Gastos com Carro;Parcela carro/seguro
+10/02/2024;-934,86;Calebe;Gastos com Carro;Parcela carro/seguro
+02-10-2024;-57.58;Rafael;Lazer;App de musica
+02-11-2024;-34,85;Rafael;Supermercado;Jantar fora
+2024-02-11;-34,85;Rafael;alimentacao;JANTAR FORA
+13/02/2024;R$ -34.06;Rafael;Combustivel;Estacionamento
+2024-02-14;-24.53;Felipe;Supermercado;Café/Lanche
+2024-02-14;-75,41;Rafael;Alimentacao;Jantar fora
+2024-02-15;-112.43;Rafael;Cinema/Show;
+15/02/2024;4,000.00;Felipe;salario;Salario mensal de Felipe *
+02-16-2024;-54,88;Felipe;alimentacao;Café/Lanche
+2024-02-16;-125.65;Rafael;Cinema/Show;Cinema
+;-54.88;Felipe;Mercado;
+2024-02-17;-317,86;Felipe;Consulta;Consulta
+04-18-2025;R$ -69,88;Rafaell;Alimentacao;
+2024-02-18;-560.79;Felipe;Restaurante;Supermercado semanal *
+18/02/2024;-190,58;C.alebe;Transporte;Combustivel
+2024-02-19;-14,77;Rafael;Entretenimento;
+02-19-2024;-14,77;Rafael;LAZER;App de musica
+02-19-2024;-14.77;Rafael;lazer;
+2024-02-21;-24,20;Rafael;transporte;Estacionamento
+2024-02-21;-41,88;Rafael;alimentacao;Jantar fora
+2024-02-21;-184.57;Calebe;EDUCACAO;Material didatico
+2024-02-21;-41.88;Rafael;Restaurante;Jantar fora
+22/02/2024;-47,75;Rafael;Entretenimento;App de musica
+02-23-2024;R$ -643.44;Felipe;ALIMENTACAO;supermercado semanal
+02-24-2024;R$ -42,45;Rafael;ALIMENTACAO;Delivery
+24/02/2024;-242.84;Felipe;Farmacia;Farmacia
+2024-02-24;-242,84;Felipe;saude;Farmacia
+02-24-2024;-242.84;Felipe;Farmacia;Farmacia
+02-25-2024;800.00;Rafel;Pagamento;Salario mensal de Rafael
+02-26-2024;-204.11;Calebe;transporte;Combustivel *
+02-28-2024;R$ -841,61;Felippe;Cursos;
+02-28-2024;-94.68;Rafael;Mercado;Delivery
+2024-02-29;-600,62;Felipe;Supermercado;Supermercado semanal
+02-29-2024;-116.19;Rafael;educacao;Curso online
+;-116.19;Rafael;Cursos;
+29/02/2024;-600,62;Felipe;Mercado;SUPERMERCADO SEMANAL
+01/03/2024;-703,07;Felip;alimentacao;
+02/03/2024;R$ -26,90;Felipe;Gastos com Carro;Estacionamento
+2024-03-02;-33.48;Rafael;Combustivel;ESTACIONAMENTO
+2024-03-02;-40,41;Rafael;alimentacao;Lanche
+2024-03-02;-40,41;Rafael;ALIMENTACAO;Lanche
+2024-03-02;R$ -33,48;Rafael;Uber/taxi;ESTACIONAMENTO
+2024-03-03;-18.62;Rafael;TRANSPORTE;estacionamento
+05/03/2024;-50.01;Rafael;Gastos com Carro;
+05/03/2024;-144.51;Calebe;Transporte;Combustivel
+03-06-2024;-42,14;Rafael;Uber/taxi;Estacionamento
+2024-03-07;-3,690.29;Calebe;MORADIA;Aluguel residencial
+03-07-2024;-174.51;Rafael;Streaming;Passeio
+03-07-2024;8000.00;Calebe;Renda;Salario mensal de Calebe
+2024-03-07;-176.67;Rafael;lazer;show/evento
+08/03/2024;-39,79;Felipe;lazer;App de musica
+08/03/2024;-39.79;Felipe;Streaming;
+08/03/2024;-17.49;Felipe;Uber/taxi;Estacionamento
+2024-03-08;-39,79;Felipe;Lazer;App de musica
+09/03/2024;-266.31;Felipe;Consulta;
+2024-03-09;-634.25;Felipe;Mercado;Supermercado semanal
+2024-03-10;-37.70;Rafael;Alimentacao;Café/Lanche
+2024-03-10;-78,51;Rafael;Alimentacao;Lanche
+2024-03-10;-948.93;Calebe;Combustivel;Parcela carro/seguro *
+03-10-2024;-948,93;Calebe;Uber/taxi;Parcela carro/seguro
+03-11-2024;-185,91;Rafael;lazer;Cinema
+2024-03-12;-54.29;Felipe;Gastos com Carro;Estacionamento
+2024-03-12;-54,29;Felipe;Uber/taxi;Estacionamento
+03-12-2024;-141,76;Calebe;transporte;Combustivel
+12/03/2024;-54,29;Felipe;transporte;Estacionamento
+03-14-2024;-11,28;Felipe;Restaurante;Café/Lanche
+14/03/2024;-11.28;Felipe;alimentacao;Café/Lanche
+14/03/2024;-11.28;Felipe;ALIMENTACAO;
+2024-03-15;R$ -51.24;Felipe;lazer;app de musica
+15/03/2024;-109,12;Rafael;Supermercado;Delivery
+2024-03-15;R$ 4000.00;Felipe;salario;Salario mensal de Felipe
+15/03/2024;4000.00;Felipe;Pagamento;Salario mensal de Felipe
+03-18-2024;-403,39;Felipe;Plano de Saude;Exame medico
+03-21-2024;-30,24;Rafael;alimentacao;Café/Lanche
+03-21-2024;R$ -149.89;Rafael;EDUCACAO;Curso online
+22/03/2024;-188.48;Calebe;Transporte;Combustivel
+2024-03-23;R$ -785,09;Felipe;alimentacao;Supermercado semanal
+2024-03-23;-24,38;Rafael;Restaurante;Café/Lanche
+25/03/2024;-115,02;Felipe;Cursos;Assinatura educacional
+2024-03-25;-61.78;Felipe;Entretenimento;
+25/03/2024;800,00;Rafael;Depósito;SALARIO MENSAL DE RAFAEL
+03-25-2024;-115,02;Felipe;Estudos;Assinatura educacional
+26/03/2024;-59.57;Rafael;Mercado;delivery
+26/03/2024;-59,57;Rafael;Mercado;Delivery
+2024-03-27;-28,52;Rafel;ALIMENTACAO;Delivery
+2024-03-27;-28,52;Rafael;Supermercado;Delivery
+2024-03-28;-921.83;Calebe;educacao;Transferencia para Poupanca
+28/03/2024;-81,85;Rafael;Restaurante;Lanche
+2024-07-07;-3559.90;Calebe;MORADIA;Aluguel residencial *
+2024-03-30;-23,25;Felipe;Restaurante;Café/Lanche
+30/03/2024;-60.78;Felipe;Cinema/Show;App de musica
+2024-03-31;-19.22;Rafael;Lazer;
+03-31-2024;R$ -703,82;Felipe;Mercado;Supermercado semanal
+2024-03-31;-703,82;Felipe;Restaurante;
+04-02-2024;-30.20;Rafael;Gastos com Carro;ESTACIONAMENTO
+02/04/2024;-452,93;Felipe;ALIMENTACAO;Supermercado semanal
+2024-04-02;-33.56;Rafael;Uber/taxi;Estacionamento
+04-04-2024;R$ -11,30;Felipe;Entretenimento;App de musica
+04/04/2024;-11.30;Felipe;Lazer;App de musica
+2024-04-04;-10,17;Felipe;LAZER;App de musica *
+05/04/2024;-13,38;Rafael;Mercado;Café/Lanche
+04-05-2024;-243,38;Felipe;SAUDE;Consulta *
+04-05-2024;8.000,00;Calebe;salario;Salario mensal de Calebe
+05/04/2024;-112,92;Calebe;Combustivel;Combustivel
+05/04/2024;-112,92;Calebe ;Transporte;Combustivel
+04-07-2024;R$ -86,04;Rafael;alimentacao;jantar fora
+02-21-2025;-89.04;Rafael;Restaurante;LANCHE
+04-07-2024;-2.969,20;Calebe;Moradia;Aluguel residencial
+2024-04-07;R$ -2,672.28;Calebe;moradia;aluguel residencial
+04-07-2024;-108.71;Rafael;Cinema/Show;Passeio
+04-08-2024;-19.07;Rafael;Cinema/Show;app de musica
+2024-04-08;-162,49;Calebe;Uber/taxi;Combustivel
+;-201.36;Felipe;saude;Consulta
+08/04/2024;-201,36;Felipe;Saude;consulta
+2024-04-10;-529,04;Felipe;Mercado;Supermercado semanal
+10/04/2024;-763,51;Calebe;TRANSPORTE;Parcela carro/seguro
+2024-04-10;-763,51;Calebe;Combustivel;Parcela carro/seguro
+10/04/2024;-529,04;Felipe;Alimentacao;supermercado semanal
+04-10-2024;-85.42;Rafael;Mercado;Lanche
+2024-04-10;-14,59;Rafael;Gastos com Carro;Estacionamento
+04-11-2024;-43.46;Felipe;Restaurante;Café/Lanche
+2024-04-11;-43.46;Felipe;Alimentacao;Café/Lanche
+2024-04-11;-70,05;Rafael;ALIMENTACAO;DELIVERY
+04-11-2024;-70.05;Rafael;Restaurante;Delivery
+2024-04-11;-43.46;Felipe;ALIMENTACAO;Café/Lanche *
+2024-04-14;-139.39;Rafael;Entretenimento;streaming anual
+2024-04-14;-139.39;Rafel;Lazer;Streaming anual
+04-14-2024;-170,02;Calebe;Combustivel;Combustivel
+04-15-2024;4.000,00;Felipe;salario;Salario mensal de Felipe
+04-15-2024;4,000.00;Felipe;Renda;Salario mensal de Felipe
+16/04/2024;-45.60;Rafael;Uber/taxi;ESTACIONAMENTO
+2024-04-16;-45,60;Rafael;Gastos com Carro;Estacionamento
+2024-04-17;-91.15;Rafael;ALIMENTACAO;Lanche *
+2024-04-17;-14,57;Felipe;transporte;Estacionamento
+17/04/2024;-16,18;Felipe;TRANSPORTE;ESTACIONAMENTO
+2024-04-17;-565.38;Felipe;Restaurante;Supermercado semanal
+18/04/2024;-20.56;Felipe;LAZER;app de musica
+18/04/2024;-20,56;Felipe;Entretenimento;
+04-20-2024;-22.64;Rafael;ALIMENTACAO;Lanche
+20/04/2024;-106,90;Rafael;LAZER;Cinema
+20/04/2024;-106,90;Rafael;Streaming;Cinema
+2024-04-22;-151,10;Calebe;TRANSPORTE;Combustivel *
+04-22-2024;-14,31;Felipe;transporte;
+22/04/2024;-15.89;Felipe;Gastos com Carro;Estacionamento
+2024-04-23;-112,30;Caleb;Combustivel;COMBUSTIVEL
+24/04/2024;R$ -569,23;Felipe;Restaurante;supermercado semanal
+04-24-2024;-30,00;Rafael;Supermercado;LANCHE
+04-25-2024;800,00;Rafael;Renda;Salario mensal de Rafael
+;-21.97;Felipe;Combustivel;estacionamento
+25/04/2024;R$ -21.97;Felipe;transporte;Estacionamento
+26/04/2024;-39,96;Rafael;alimentacao;DELIVERY
+2024-04-27;R$ -84.54;Rafael;lazer;Cinema
+04-28-2024;-1033,82;Felipe;Cursos;Transferencia para Poupanca
+2024-04-29;-112.51;Rafael;Entretenimento;Passeio
+29/04/2024;-58.88;Rafael;Alimentacao;DELIVERY
+04-29-2024;R$ -112.51;Rafael;Streaming;Passeio
+30/04/2024;-463.05;Felipe;ALIMENTACAO;Supermercado semanal
+2024-04-30;-43,12;Rafael;Uber/taxi;
+05-03-2024;-485,88;Felipe;Mercado;
+05-03-2024;-38.30;Felipe;Restaurante;Café/Lanche
+2024-05-03;-39.56;Felipe;Supermercado;café/lanche
+19/02/2025;-16,72;Rafel;Alimentacao;Café/Lanche
+2024-05-05;R$ -121.37;Calebe ;transporte;Combustivel
+05-05-2024;-37.44;Rafael;lazer;App de musica
+05-05-2024;-121,37;Calebe;Uber/taxi;combustivel
+05-06-2024;-45,66;Rafael;ALIMENTACAO;Jantar fora
+2024-05-06;R$ -38,47;Rafael;Lazer;App de musica
+2024-05-07;-25.87;Rafael;transporte;Estacionamento
+;R$ -3.393,17;Calebe;MORADIA;aluguel residencial
+2024-05-07;8000,00;Calebe;Renda;
+2024-05-09;-45.32;Felipe;Restaurante;Café/Lanche
+05-09-2024;R$ -45,32;Felipe;Restaurante;Café/Lanche
+05-09-2024;-68.25;Rafael;Supermercado;Jantar fora
+09/05/2024;-37.11;Rafael;Supermercado;Lanche
+10/05/2024;-872.53;Calebe;Combustivel;Parcela carro/seguro
+04-18-2025;-101.45;Rafael;Cinema/Show;STREAMING ANUAL
+2024-05-13;-349,13;Felipe;Farmacia;Consulta
+13/05/2024;-167.11;Calebe;TRANSPORTE;Combustivel
+05-13-2024;-167,11;Calebe;Combustivel;Combustivel
+13/05/2024;-349,13;Felipe;Plano de Saude;CONSULTA
+05-14-2024;-104,22;Rafael;Entretenimento;Show/Evento
+05-14-2024;-108,97;Rafael;Entretenimento;Streaming anual
+2024-05-14;-58.08;Rafael;Mercado;Jantar fora
+15/05/2024;-83,14;Rafael;Supermercado;JANTAR FORA
+2024-05-15;-35,03;Rafael;transporte;ESTACIONAMENTO
+2024-05-15;-83.14;Rafael;alimentacao;Jantar fora
+05-15-2024;-83,14;Rafael;Mercado;Jantar fora
+2024-05-15;4000,00;Felipe;Renda;Salario mensal de Felipe
+16/05/2024;-164.54;Rafael;LAZER;Show/Evento
+16/05/2024;-164.54;Rafael;Cinema/Show;Show/Evento
+2024-05-18;-517.12;Felipe;Restaurante;Supermercado semanal
+2024-05-18;-217,71;Felipe;Cursos;
+2024-05-18;-40.37;Rafael;alimentacao;Café/Lanche
+2024-05-19;-54,84;Rafael;Restaurante;café/lanche
+19/05/2024;R$ -51,42;Rafael;transporte;estacionamento
+20/05/2024;-13.79;Rafael;lazer;App de musica
+2024-05-21;R$ -29.99;Rafael;Uber/taxi;Estacionamento
+2024-05-25;-514,42;Felipe;Supermercado;Supermercado semanal
+25/05/2024;800.00;Rafael;salario;Salario mensal de Rafael
+04-12-2025;-153,46;Calebe;TRANSPORTE;
+2024-05-25;R$ -48,24;Rafael;TRANSPORTE;Estacionamento
+2024-05-26;R$ -200.31;Rafael;Streaming;PASSEIO
+27/05/2024;R$ -59,70;Rafael;Mercado;
+27/05/2024;-41.33;Felipe;transporte;Estacionamento *
+2024-05-28;-163,51;Rafael;Educacao;
+2024-05-28;-163,51;Rafael;Estudos;Material didatico
+2024-05-28;-197.14;Calebe;Transporte;
+2024-05-28;-1562,53;Felipe;Educacao;Transferencia para Poupanca
+2024-05-29;-33,55;Rafael;ALIMENTACAO;Café/Lanche
+2024-05-29;-33.55;Rafael;Supermercado;Café/Lanche
+05-30-2024;-16.36;Rafael;transporte;Estacionamento
+2024-06-01;-8.27;Felipe;transporte;Estacionamento
+01/06/2024;-16,10;Felipe;alimentacao;Café/Lanche
+06-01-2024;R$ -9,19;Felipe;TRANSPORTE;ESTACIONAMENTO
+06-01-2024;-9.19;Felipe;Transporte;Estacionamento
+2024-06-02;-467,21;Felipe;Alimentacao;Supermercado semanal
+02/06/2024;-13.21;Felipe;ALIMENTACAO;Café/Lanche
+03/06/2024;-14.00;Felipe;Transporte;Estacionamento
+2024-06-04;-75,52;Rafael;alimentacao;Jantar fora
+2024-06-06;-146,55;Rafael;Entretenimento;Streaming anual
+07/06/2024;8.000,00;Calebe;Salario;Salario mensal de Calebe
+2024-06-07;R$ -2556.10;Calebe;Aluguel;Aluguel residencial
+2024-06-07;-119.62;Calebbe;Gastos com Carro;Combustivel
+2024-06-08;-235.30;Rafael;Cursos;Material didatico
+09/06/2024;-522,93;Felipe;Supermercado;Supermercado semanal
+2024-06-09;-470,64;Felipe;Mercado;Supermercado semanal
+2024-06-09;-9,39;Rafael;Transporte;Estacionamento
+06-09-2024;-33,23;Rafael;transporte;Estacionamento
+2024-06-10;-657,28;Calebe;transporte;Parcela carro/seguro
+2024-06-11;-56,25;Rafael;Streaming;Cinema
+2024-06-11;-56,25;Rafael;Cinema/Show;CINEMA
+06-11-2024;-56.25;Rafael;Cinema/Show;Cinema
+13/06/2024;-99.15;Calebe;Gastos com Carro;Combustivel
+2024-06-13;-99,15;Calebe;TRANSPORTE;Combustivel
+2024-06-14;-13.63;Rafael;lazer;App de musica
+2024-06-15;-39.20;Rafael;Alimentacao;Delivery
+2024-06-15;-65.86;Rafael;ALIMENTACAO;Jantar fora
+2024-06-15;-38.75;Rafael;Supermercado;Delivery
+06-15-2024;4.000,00;Felipe;salario;salario mensal de felipe
+2024-06-15;-65,86;Rafael;Mercado;Jantar fora
+2024-06-16;-72.47;Rafael;Mercado;Delivery *
+01-19-2025;-90.20;Felipe;Farmacia;Exame medico
+06-17-2024;-507,33;Felipe;Restaurante;Supermercado semanal
+06-17-2024;-507,33;Felipe;Alimentacao;Supermercado semanal
+17/06/2024;-507.33;Felipe;Restaurante;SUPERMERCADO SEMANAL
+2024-06-18;-160.32;Rafael;Streaming;
+;-38,38;Felipe;alimentacao;Café/Lanche
+2024-06-19;-17,20;Rafael;Supermercado;Lanche
+2024-06-19;-8,85;Felipe;transporte;Estacionamento
+06-19-2024;-38.38;Felipe;Mercado;Café/Lanche
+2024-06-19;-36.57;Rafael;Alimentacao;Café/Lanche
+2024-06-19;-8.85;Felipe;transporte;Estacionamento
+06-21-2024;R$ -121,60;Rafael;LAZER;Cinema
+21/06/2024;-34.51;Rafael;LAZER;App de musica
+2024-06-22;-141.61;Rafael;LAZER;Show/Evento
+2024-06-22;-141.61;Rafael;Entretenimento;Show/Evento
+12-07-2024;R$ -2563,60;Calebe;MORADIA;Aluguel residencial
+2024-06-23;-140.93;Calebe;Gastos com Carro;Combustivel
+23/06/2024;-126.83;Calebe;transporte;COMBUSTIVEL
+25/06/2024;-14,35;Rafael;alimentacao;Café/Lanche
+06-25-2024;-41,18;Felipe;Uber/taxi;Estacionamento
+;-41.18;Felipe;transporte;Estacionamento
+06-25-2024;-110.60;Calebe;Transporte;
+2024-06-25;800.00;Rafael;SALARIO;Salario mensal de Rafael
+26/06/2024;R$ -37,90;Rafael;Lazer;app de musica
+2024-06-26;-14,54;Rafael;ALIMENTACAO;Café/Lanche
+27/06/2024;-112.57;Felipe;Consulta;Exame medico
+2024-06-28;-909.31;Felipe;educacao;TRANSFERENCIA PARA POUPANCA
+28/06/2024;-31,27;Rafael;Mercado;CAFÉ/LANCHE
+06-29-2024;-156.00;Calebe;TRANSPORTE;Combustivel
+2024-06-30;-534.76;Felipe;ALIMENTACAO;Supermercado semanal
+06-30-2024;-48,94;Rafael;Supermercado;Jantar fora
+2024-06-30;-119.78;Rafael;Entretenimento;cinema
+07-01-2024;-707,53;Felipe;alimentacao;Supermercado semanal
+2024-07-03;-52,99;Rafael;alimentacao;
+03/07/2024;-52,99;Rafael;Restaurante;CAFÉ/LANCHE
+2024-07-03;R$ -71.24;Rafael;alimentacao;Jantar fora *
+03/07/2024;-27,16;Felipe;Cinema/Show;App de musica
+2024-07-05;8.000,00;Calebe;SALARIO;Salario mensal de Calebe
+2024-07-06;R$ -26.13;Felipe;Uber/taxi;Estacionamento
+07/07/2024;R$ -152.70;Calebe;TRANSPORTE;
+2024-07-07;-3559.90;Calebe;MORADIA;Aluguel residencial
+2024-07-08;-16.26;Rafael;Entretenimento;app de musica
+07-08-2024;-16,26;Rafa;lazer;App de musica
+2024-07-08;-56.06;Rafael;alimentacao;Jantar fora
+2024-07-10;-200,44;Rafael;Entretenimento;Cinema
+10/07/2024;-915.40;Calebe;Gastos com Carro;Parcela carro/seguro
+07-12-2024;R$ -208.83;Felipe;saude;Exame medico
+12/07/2024;-58.91;Felipe;Combustivel;Estacionamento
+2024-07-12;-16.06;Feli pe;Supermercado;Café/Lanche
+2024-07-12;-208.83;Felipe;Saude;Exame medico
+2024-07-12;-208,83;Felipe;Consulta;
+2024-07-13;-227.85;Rafael;Lazer;Show/Evento
+2024-07-13;-227,85;Rafa;Entretenimento;Show/Evento
+07-14-2024;-25,99;Rafael;TRANSPORTE;Estacionamento
+2024-07-14;-65.22;Rafael;Supermercado;DELIVERY
+2024-07-15;4000,00;Felipe;Pagamento;Salario mensal de Felipe
+15/07/2024;-218.28;Calebe;Combustivel;Combustivel
+07-17-2024;-36.25;Felipe;Gastos com Carro;
+2024-07-17;R$ -36.25;Felipe;Uber/taxi;Estacionamento
+17/07/2024;-36,25;Felipe;Combustivel;Estacionamento
+2024-07-18;-657,20;Feli pe;Mercado;Supermercado semanal
+07-18-2024;-32,11;Rafael;lazer;
+2024-07-20;-260.54;Calebe;educacao;CURSO ONLINE
+07-20-2024;R$ -50.22;Felipe;LAZER;App de musica
+2024-07-20;-50,22;Felipe;Entretenimento;app de musica
+2024-07-20;-50.22;Felipe;Entretenimento;App de musica
+2024-07-21;-180,27;Calebe;Transporte;Combustivel
+2024-07-21;-296.06;Felipe;saude;
+2024-07-21;-64,93;Rafael;Restaurante;Delivery
+07-22-2024;-725,96;Felipe;Mercado;SUPERMERCADO SEMANAL
+07-23-2024;-55.25;Felipe;Combustivel;
+2024-07-25;-26.16;Rafael ;transporte;Estacionamento
+25/07/2024;-26.16;Rafael;Transporte;Estacionamento
+2024-07-25;-26,16;Rafael;transporte;Estacionamento
+07-25-2024;800.00;Rafael;Depósito;Salario mensal de Rafael
+;-82,27;Rafael;Supermercado;Delivery
+2024-07-27;-36.63;Rafael;Mercado;Café/Lanche
+2024-07-27;-29.10;Rafael;ALIMENTACAO;Café/Lanche
+2024-07-28;-1.505,41;Felipe;EDUCACAO;transferencia para poupanca
+07-28-2024;-52,24;Felipe;Gastos com Carro;Estacionamento
+07-29-2024;-65.86;Rafael;Restaurante;Lanche
+;-65,86;Rafael;ALIMENTACAO;Lanche
+30/07/2024;-659,83;Felipe;Supermercado;
+2024-08-04;-29,57;Rafael;Uber/taxi;Estacionamento
+04/08/2024;-647.96;Felipe;ALIMENTACAO;Supermercado semanal
+2024-08-05;-117,25;Rafael;Cinema/Show;Show/Evento
+03-21-2024;-30,24;Rafael;alimentacao;Café/Lanche
+2024-08-07;8,000.00;Calebe;Depósito;Salario mensal de Calebe
+2024-08-07;-3458.37;Calebe;MORADIA;Aluguel residencial
+07/08/2024;-3458.37;Calebe;Aluguel;Aluguel residencial
+2024-08-08;-70,72;Rafael;alimentacao;Delivery
+2024-08-09;-84,55;Rafael;Supermercado;lanche
+2024-08-10;-103,89;Rafaell;alimentacao;Delivery
+10/08/2024;-39.45;Rafael;Supermercado;Café/Lanche
+2024-08-10;-635.74;Felipe;Mercado;SUPERMERCADO SEMANAL
+08-10-2024;-635.74;Felipe;ALIMENTACAO;Supermercado semanal
+08-10-2024;R$ -39,45;Rafael;ALIMENTACAO;CAFÉ/LANCHE
+08-10-2024;-889,30;Calebe;transporte;
+2024-08-10;-889,30;Calebe;Combustivel;PARCELA CARRO/SEGURO
+2024-08-11;R$ -19.35;Felipe;Supermercado;Café/Lanche
+08-11-2024;R$ -130.93;Felipe;Farmacia;
+2024-08-11;-19.35;Felipe;Alimentacao;Café/Lanche
+2024-08-13;R$ -180.80;Rafael;Lazer;Streaming anual
+08-13-2024;-44,61;Felipe;Lazer;APP DE MUSICA
+08-15-2024;4,000.00;Felipe;Depósito;Salario mensal de Felipe
+2024-08-15;-216.31;Calebe;Uber/taxi;Combustivel
+17/08/2024;-193,99;Rafael;Lazer;Show/Evento
+2024-08-18;-134,97;Calebe;Transporte;Combustivel
+2024-08-18;-642,30;Felipe;Mercado;Supermercado semanal
+18/08/2024;-87,61;Rafael;Supermercado;jantar fora
+19/08/2024;-192.80;Rafael;LAZER;Passeio
+2024-08-19;-321.71;Calebbe;Cursos;Material didatico
+19/08/2024;-321.71;Calebe;educacao;Material didatico
+08-19-2024;R$ -51.89;Felipe;LAZER;App de musica
+2024-08-19;R$ -36,14;Felipe;lazer;App de musica
+19/08/2024;-32,60;Rafael;Restaurante;Jantar fora
+19/08/2024;-321.71;Calebe;Estudos;Material didatico
+08-19-2024;-32.02;Rafael;LAZER;App de musica
+19/08/2024;-36,14;Felipe;Entretenimento;App de musica
+08-20-2024;-52.71;Rafael;Restaurante;Café/Lanche *
+20/08/2024;-58,39;Rafael;Cinema/Show;app de musica
+2025-02-10;-913,78;Calebe;Combustivel;Parcela carro/seguro
+20/08/2024;R$ -52.71;Rafael;Alimentacao;Café/Lanche
+2024-02-19;-14,77;Rafael;Entretenimento;APP DE MUSICA
+08-20-2024;-18,65;Rafaell;alimentacao;Café/Lanche
+2024-08-20;-52,12;Rafael;Alimentacao;Jantar fora
+20/08/2024;-58,39;Rafael;LAZER;
+2024-08-20;-58,39;Rafael;LAZER;App de musica
+2024-08-21;-96.32;Rafael;Supermercado;Jantar fora
+2024-08-21;-139.23;Calebe;TRANSPORTE;Combustivel
+21/08/2024;-139.23;Calebe;TRANSPORTE;Combustivel
+2024-08-24;-112,80;Rafael;LAZER;Show/Evento
+2024-08-24;-134,75;Calebe;Transporte;COMBUSTIVEL
+08-25-2024;-602,04;Felipe;Restaurante;Supermercado semanal
+08-25-2024;800,00;Rafaell;Renda;Salario mensal de Rafael
+2024-08-25;800,00;Rafael;salario;
+08-28-2024;R$ -1,532.41;Calebbe;Estudos;Transferencia para Poupanca
+2024-08-28;-47,50;Felipe;Streaming;App de musica
+08-29-2024;-45.49;Felipe;Uber/taxi;Estacionamento
+2024-08-29;-119.63;Calebe;Transporte;Combustivel
+2024-08-29;-45,49;Felipe;Gastos com Carro;Estacionamento
+08-30-2024;-585.98;Felipe;Restaurante;
+08-31-2024;-71,01;Rafael;Mercado;Lanche
+08-31-2024;-71,01;Rafael;alimentacao;Lanche
+2024-09-02;-378.33;Felipe;Restaurante;Supermercado semanal
+2024-09-03;-52,18;Rafael;ALIMENTACAO;Jantar fora
+09-04-2024;-7,82;Felipe;lazer;App de musica
+09-04-2024;-7,82;Felipe;Entretenimento;App de musica
+09-06-2024;8000,00;Calebe;Pagamento;Salario mensal de Calebe
+09-06-2024;R$ -87,10;C.alebe;Transporte;Combustivel
+2024-09-07;R$ -5.73;Felipe;Entretenimento;App de musica
+09-07-2024;-2048.27;Calebe;Aluguel/Moradia;Aluguel residencial
+2024-09-07;-2.048,27;Calebe;MORADIA;
+2024-09-07;-161.24;Felipe;saude;Consulta
+2024-09-10;-93,35;Rafael;Lazer;Streaming anual
+10/09/2024;-526,70;Calebe;Gastos com Carro;Parcela carro/seguro
+2024-09-10;-93,35;Rafael;Streaming;Streaming anual
+2024-09-10;-35,53;Rafa;Entretenimento;Cinema
+2024-09-10;-474,03;Calebe;Uber/taxi;Parcela carro/seguro
+2024-09-11;R$ -454,35;Felipe;Supermercado;SUPERMERCADO SEMANAL
+2024-09-11;-37.89;Rafael;Entretenimento;Show/Evento
+09-11-2024;-454.35;Felipe;Alimentacao;Supermercado semanal
+09-11-2024;-37.89;Rafael;Entretenimento;show/evento
+2024-09-11;-101,81;Felipe;educacao;Curso online
+2024-09-12;-181,57;Rafael;Estudos;Assinatura educacional
+2024-09-13;R$ -33.92;Rafael;Transporte;Estacionamento *
+09-14-2024;R$ -13.89;Felipe;Cinema/Show;
+2024-09-14;-16.69;Rafael;alimentacao;
+09-15-2024;4.000,00;Felipe;SALARIO;Salario mensal de Felipe
+16/09/2024;-14,18;Rafael;Lazer;App de musica
+18/09/2024;-35,04;Rafael;transporte;Estacionamento
+09-18-2024;-474,20;Felipe;Restaurante;Supermercado semanal
+09-18-2024;-126,98;Calebe;transporte;COMBUSTIVEL
+09-19-2024;-221,75;Felipe;Farmacia;
+2024-09-21;-26,85;Felipe;Cinema/Show;APP DE MUSICA
+09-21-2024;-26.85;Felipe;Entretenimento;APP DE MUSICA
+21/09/2024;-108.50;Calebbe;Transporte;Combustivel
+2024-09-22;-72,69;Rafael;lazer;
+09-22-2024;-98.00;Rafael;lazer;
+2024-09-22;-62.75;Rafael;alimentacao;Lanche
+2024-09-22;-98.00;Rafaell;LAZER;Streaming anual
+2024-09-22;-98.00;Rafael;Entretenimento;Streaming anual *
+2024-09-23;-53,24;Rafael;ALIMENTACAO;Lanche
+23/09/2024;R$ -17.33;Rafael;LAZER;App de musica
+09-23-2024;-414,84;Felipe;ALIMENTACAO;Supermercado semanal
+09-23-2024;-414,84;Felipe;ALIMENTACAO;Supermercado semanal
+23/09/2024;R$ -17.36;Rafael;alimentacao;Lanche
+2024-09-23;-59,16;Rafael;ALIMENTACAO;Lanche
+2025-02-24;-215.31;Calebe;Uber/taxi;Combustivel
+09-23-2024;-23,14;Rafael;Entretenimento;app de musica
+2024-09-24;-9,86;Felipe;Supermercado;CAFÉ/LANCHE
+09-24-2024;-51,88;Rafa;Restaurante;Lanche
+25/09/2024;R$ -35,08;Rafael;Supermercado;Café/Lanche
+2024-09-25;-35.35;Rafael;alimentacao;Lanche
+25/09/2024;800.00;Rafael;SALARIO;Salario mensal de Rafael
+26/09/2024;R$ -14,60;Rafael;lazer;App de musica
+2024-09-26;-14,60;Rafael;lazer;App de musica
+2024-09-27;-83,30;Rafael;Lazer;Streaming anual
+2024-09-27;-12,73;Rafael;Alimentacao;Café/Lanche
+09-27-2024;-21,35;Rafael;TRANSPORTE;Estacionamento *
+27/09/2024;-11,34;Rafael;Restaurante;Café/Lanche
+09-28-2024;-20.40;Felipe;Mercado;CAFÉ/LANCHE
+28/09/2024;-675,16;Felipe;Assinatura;Transferencia para Poupanca
+2024-09-29;-20.71;Rafa;alimentacao;Delivery
+09-29-2024;R$ -15.90;Rafael;lazer;App de musica
+2024-09-29;-452.67;Felipe;Supermercado;Supermercado semanal *
+09-29-2024;-15.90;Rafael;lazer;App de musica
+2024-10-03;-32.95;Rafael;ALIMENTACAO;Lanche
+2024-10-04;R$ -752.67;Felipe;ALIMENTACAO;Supermercado semanal
+2024-10-04;-752.67;Felipe;Alimentacao;Supermercado semanal
+04/10/2024;-50,34;Felipe;Restaurante;Café/Lanche
+10-04-2024;-50,34;Felipe;Restaurante;CAFÉ/LANCHE
+2024-10-04;-50,34;Felipe;Alimentacao;Café/Lanche
+2024-10-04;-32.66;Rafaell;ALIMENTACAO;Café/Lanche
+2024-10-05;-135,06;Rafael;Entretenimento;Streaming anual
+2024-10-05;-94,14;Rafael;Streaming;Streaming anual
+10-06-2024;-110.06;Rafael;Restaurante;Delivery
+07/10/2024;-23,78;Felipe;lazer;App de musica
+10-07-2024;8000.00;Calebe;Pagamento;SALARIO MENSAL DE CALEBE
+2024-10-07;-23.78;Felipe;Cinema/Show;App de musica
+10-07-2024;R$ -3.315,64;Calebe;Aluguel/Moradia;ALUGUEL RESIDENCIAL
+13/05/2024;-349,13;Felipe;Plano de Saude;Consulta
+2024-10-10;-20,96;Rafael;Streaming;App de musica
+2024-10-10;R$ -852,59;Calebe;TRANSPORTE;
+10/10/2024;R$ -20,96;Rafa;Lazer;App de musica
+10-10-2024;-20,96;Rafael;Streaming;App de musica
+2024-10-10;-852.59;Calebe;Uber/taxi;Parcela carro/seguro
+2024-10-11;-29,90;Rafael;TRANSPORTE;Estacionamento
+11/10/2024;-53.54;Felipe;ALIMENTACAO;CAFÉ/LANCHE
+2024-10-11;-69,83;Rafel;ALIMENTACAO;Delivery
+11/10/2024;R$ -29.90;Rafael;Transporte;
+10-11-2024;-733,29;Felipe;Restaurante;Supermercado semanal
+2024-10-12;-128,40;Calebe;Transporte;Combustivel
+10-12-2024;R$ -128.40;C.alebe;Gastos com Carro;Combustivel
+2024-10-13;-140,51;Calebe;Transporte;Combustivel
+13/10/2024;-286.87;Felipe;Plano de Saude;exame medico
+2024-10-14;-88.82;Calebe;Assinatura;Curso online
+10-15-2024;4000.00;Felipe;Renda;Salario mensal de Felipe
+15/10/2024;4000,00;Felipe;Renda;Salario mensal de Felipe
+2024-10-15;4000.00;Felipe;Pagamento;Salario mensal de Felipe
+2024-10-15;-21,81;Rafael;Restaurante;Café/Lanche
+2024-10-16;-772,40;Felipe;Restaurante;Supermercado semanal
+10-16-2024;-43,18;Felipe;alimentacao;Café/Lanche
+2024-10-20;-125,82;Rafael;Entretenimento;
+10-20-2024;R$ -125,82;Rafael;Streaming;Cinema *
+10-25-2024;-42,54;Felipe;LAZER;App de musica *
+2024-10-25;R$ 800.00;Rafael;Pagamento;SALARIO MENSAL DE RAFAEL
+10-27-2024;-20,28;Rafa;Transporte;Estacionamento
+;-174,13;Rafael;Assinatura;material didatico
+2024-10-28;R$ -847.37;Calebe ;Cursos;Transferencia para Poupanca
+2024-10-28;-174.13;Rafael;Estudos;Material didatico
+28/10/2024;-166,87;Calebe;Combustivel;Combustivel
+2024-10-28;-166,87;Calebe;transporte;Combustivel
+2024-10-28;-174.13;Rafael;EDUCACAO;Material didatico
+2024-10-30;-714,00;Felipe;Restaurante;Supermercado semanal
+30/10/2024;-62.65;Rafael;Alimentacao;
+10-30-2024;-714,00;Felipe;Mercado;Supermercado semanal
+;-615,20;Felipe;alimentacao;Supermercado semanal
+2024-11-02;-18,19;Rafael;Gastos com Carro;
+2024-11-02;-615.20;Felipe;Supermercado;Supermercado semanal
+2024-11-03;-102.02;Calebe;Combustivel;Combustivel
+2024-11-03;-31.05;Rafael;Restaurante;Café/Lanche
+11-06-2024;-85,14;Rafael;ALIMENTACAO;DELIVERY
+2024-11-06;-54,65;Rafael;LAZER;
+2024-11-07;8000,00;Calebe;SALARIO;Salario mensal de Calebe
+2024-11-07;R$ -2952,67;Calebe;Aluguel;Aluguel residencial
+2024-11-08;-593.56;Felipe;Mercado;Supermercado semanal
+11-08-2024;-46.55;Rafael;Mercado;Delivery
+2024-11-09;-57.51;Rafael;ALIMENTACAO;Jantar fora
+2024-11-10;-759.25;Calebe;Uber/taxi;PARCELA CARRO/SEGURO
+2024-11-10;-54,27;Rafael;Alimentacao;Delivery
+;-69.23;Rafael;Alimentacao;jantar fora
+2024-11-13;-72.96;Rafael;Lazer;Cinema
+2024-11-13;-72.96;Rafael;Cinema/Show;Cinema
+2024-11-14;-20,87;Rafael ;LAZER;App de musica
+11-14-2024;R$ -20,87;Rafael;Entretenimento;app de musica
+11-15-2024;4,000.00;Felipe;Pagamento;Salario mensal de Felipe
+11-16-2024;R$ -50,27;Felipe;Mercado;Café/Lanche
+11-18-2024;-13.75;Rafael;Restaurante;café/lanche
+11-18-2024;R$ -13.79;Rafael;Transporte;Estacionamento
+11-18-2024;-13,75;Rafael;ALIMENTACAO;café/lanche
+2024-11-19;-19.96;Rafael;Supermercado;Café/Lanche
+2024-11-20;-43.71;Felipe;Mercado;
+2024-11-20;R$ -43.71;Felipe;Supermercado;café/lanche
+11-21-2024;-131,57;Rafael;Entretenimento;Show/Evento
+2024-11-21;-14.16;Rafael;transporte;Estacionamento
+23/11/2024;-53,18;Rafael;Lazer;Passeio
+2024-11-23;R$ -626,52;Felipe;ALIMENTACAO;SUPERMERCADO SEMANAL
+11-23-2024;-150,31;Rafael;LAZER;Passeio
+2024-12-29;-21.78;Rafael;lazer;app de musica
+09-23-2024;-414,84;Felipe;ALIMENTACAO;Supermercado semanal
+11-26-2024;-170,75;Rafael;Entretenimento;passeio
+2024-11-27;-19.13;Rafael;Entretenimento;App de musica
+2024-11-28;-50.33;Felipe;Lazer;App de musica
+11-28-2024;R$ -117.12;Calebe;Gastos com Carro;Combustivel
+2024-06-06;-146,55;Rafael;Entretenimento;streaming anual
+2024-11-28;-50.33;Felipe;Lazer;APP DE MUSICA
+2024-11-28;-50,06;Rafel;alimentacao;Delivery
+2024-11-28;-1,150.51;Calebe;Estudos;Transferencia para Poupanca *
+30/11/2024;-145,16;Felipe;Consulta;Consulta
+2024-11-30;-86.26;Rafael;Supermercado;Lanche
+30/11/2024;-625.97;Felipe;Restaurante;Supermercado semanal
+2024-11-30;-625,97;Felipe;alimentacao;Supermercado semanal
+2024-11-30;-145.16;Felipe;saude;CONSULTA
+2024-11-30;-161.30;Felipe;Consulta;consulta
+12-02-2024;R$ -42,30;Felip;transporte;Estacionamento
+05/12/2024;-13,29;Felipe;Gastos com Carro;Estacionamento
+12-05-2024;-13.29;Felipe;transporte;Estacionamento
+2024-12-06;-205.65;Felipe;educacao;Assinatura educacional
+2024-12-06;R$ 8,000.00;Calebe;SALARIO;Salario mensal de Calebe
+12-06-2024;-205,65;Felipe;EDUCACAO;ASSINATURA EDUCACIONAL
+2024-12-06;R$ -189,01;Rafaell;Cinema/Show;STREAMING ANUAL
+2024-12-06;-205,65;Felipe;Assinatura;Assinatura educacional
+07/12/2024;-14.12;Felipe;Entretenimento;App de musica
+12-07-2024;R$ -2563,60;Calebe;MORADIA;ALUGUEL RESIDENCIAL
+12-07-2024;R$ -125,58;Calebe;Transporte;Combustivel
+12-08-2024;-51,00;Rafael;alimentacao;Jantar fora
+08/12/2024;-10.95;Felipe;Transporte;Estacionamento
+12-08-2024;R$ -9.85;Felipe;Uber/taxi;
+08/12/2024;-51,00;Rafael;alimentacao;Jantar fora
+2024-12-08;-51,00;Rafael;ALIMENTACAO;jantar fora
+08/12/2024;-10,95;Felipe;Uber/taxi;
+12-09-2024;-433.96;Felipe-M;Mercado;Supermercado semanal
+12-09-2024;-433.96;Felipe;Supermercado;Supermercado semanal
+10/12/2024;-29.62;Rafael;Lazer;app de musica
+2024-12-10;-247,55;Felipe;Farmacia;CONSULTA
+10/12/2024;-659,22;Calebe;Gastos com Carro;Parcela carro/seguro
+2024-12-10;-275.06;Felipe;saude;Consulta
+2024-12-11;-63,18;Rafael;Estudos;Curso online
+2024-12-11;-21,75;Felipe;Uber/taxi;ESTACIONAMENTO
+12/12/2024;-29.36;Felipe;LAZER;APP DE MUSICA
+12-14-2024;-69.92;Rafael;alimentacao;Delivery
+15/12/2024;-88.81;Calebe;transporte;Combustivel
+2024-12-15;-88,81;Calebe ;Uber/taxi;Combustivel
+12-15-2024;4000,00;Felipe;Salario;Salario mensal de Felipe
+2024-12-16;-194.85;Rafael;Cinema/Show;
+16/12/2024;-194.85;Rafael;Streaming;Streaming anual
+2024-12-17;-495,68;Felipe;ALIMENTACAO;SUPERMERCADO SEMANAL
+2024-12-17;-495.68;Felipe;Supermercado;SUPERMERCADO SEMANAL
+12-17-2024;-69,19;Rafael;Restaurante;jantar fora
+17/12/2024;-69,19;Rafael;Mercado;
+2024-12-19;-159.93;Calebe ;transporte;Combustivel
+2024-12-19;-17.51;Rafael;Lazer;App de musica
+19/12/2024;-17.51;Rafael;Entretenimento;App de musica
+22/12/2024;-141,05;Calebe;Transporte;Combustivel
+2024-12-22;-141.05;Calebe;Transporte;Combustivel
+2024-12-23;-264.06;Felipe;Consulta;Farmacia
+2024-12-23;-437.33;Felipe;ALIMENTACAO;Supermercado semanal
+2025-01-27;-32,94;Rafael;Streaming;
+24/12/2024;-44.69;Rafael;alimentacao;Jantar fora
+12-25-2024;-143,45;Calebbe;Transporte;Combustivel
+12-25-2024;-129,57;Rafael;Lazer;Streaming anual
+12-25-2024;800,00;Rafael;SALARIO;Salario mensal de Rafael
+12-25-2024;-143,45;Calebe;Transporte;COMBUSTIVEL
+12-28-2024;R$ -79.43;Rafael;ALIMENTACAO;delivery
+12-28-2024;-72.34;Rafael;LAZER;Cinema
+12-28-2024;-824.79;Felipe;Cursos;transferencia para poupanca
+12-29-2024;-467,69;Felipe;Supermercado;Supermercado semanal
+29/12/2024;-24.45;Felipe;alimentacao;
+2024-12-29;-21.78;Rafael;lazer;App de musica
+2024-12-29;-519.65;Felipe;Alimentacao;SUPERMERCADO SEMANAL
+2024-12-31;-21,14;Rafael;transporte;Estacionamento
+01/01/2025;-378.04;Felipe;Restaurante;supermercado semanal
+01-03-2025;R$ -29.96;Rafael;Restaurante;Café/Lanche
+01-03-2025;-35,34;Felippe;ALIMENTACAO;Café/Lanche
+01-03-2025;-35,34;Felipe;Restaurante;Café/Lanche
+03/01/2025;R$ -35,34;Felipe;Supermercado;Café/Lanche
+2025-01-04;-103,07;Calebe;Transporte;Combustivel
+01-04-2025;-57.06;Rafael;Cinema/Show;Show/Evento
+01-04-2025;-34.23;Felipe;ALIMENTACAO;Café/Lanche
+2025-01-05;-9,98;Felipe;Gastos com Carro;estacionamento
+2025-01-05;R$ -113.56;Calebe;Gastos com Carro;Combustivel
+01-05-2025;-113.56;Calebe;transporte;COMBUSTIVEL
+06/01/2025;-23.12;Rafael;Mercado;Café/Lanche
+2025-01-06;R$ -44.41;Rafael;Supermercado;Delivery
+01-06-2025;-23.12;Rafael;ALIMENTACAO;Café/Lanche
+2025-01-06;R$ -7,05;Felipe;LAZER;App de musica
+2025-01-06;-7,05;Felipe;Streaming;App de musica
+2025-01-06;-27.90;Felipe;alimentacao;Café/Lanche
+2025-01-06;-7,05;Felipe;Lazer;
+2025-01-06;R$ -18.80;Felipe;Cinema/Show;App de musica
+2025-01-07;-1930.89;Calebe;moradia;aluguel residencial
+11-21-2024;-131,57;Rafael;Entretenimento;Show/Evento
+01-07-2025;-2.145,43;Calebe;Aluguel;Aluguel residencial
+07/01/2025;8.000,00;Calebe;Depósito;Salario mensal de Calebe
+07/01/2025;-46.62;Rafael;Entretenimento;Show/Evento
+2025-01-08;-322,12;Felipe;Mercado;Supermercado semanal
+01-08-2025;-322,12;Felipe;Restaurante;Supermercado semanal
+08/01/2025;-11,07;Felipe;Uber/taxi;Estacionamento
+2025-01-10;-551.68;Calebe;Transporte;Parcela carro/seguro
+01-10-2025;-551,68;Calebe;Combustivel;parcela carro/seguro
+2025-01-12;-189.13;Rafel;educacao;Material didatico
+2025-01-13;-19.45;Rafael;Cinema/Show;App de musica *
+01-13-2025;-22,43;Rafael;Alimentacao;Café/Lanche
+2025-01-14;-24.95;Rafael;alimentacao;
+01-15-2025;-124,67;Rafael;LAZER;PASSEIO
+2025-01-15;R$ -64.94;Rafael;Supermercado;Lanche
+2025-01-15;4.000,00;Felipe;Salario;Salario mensal de Felipe
+01-17-2025;-21,17;Felipe;Lazer;App de musica
+01-17-2025;-32,56;Rafael;Supermercado;Delivery
+2025-01-17;-13.74;Rafael;Restaurante;Café/Lanche
+01-18-2025;-375.62;Felipe;Supermercado;Supermercado semanal
+18/01/2025;-30.07;Rafael;ALIMENTACAO;Lanche
+01-19-2025;-90.20;Felipe;Farmacia;Exame medico
+2025-01-19;R$ -90,20;Felipe;Farmacia;Exame medico
+24/01/2025;-33.25;Rafael;ALIMENTACAO;
+2025-01-25;R$ 800.00;Rafael;Renda;Salario mensal de Rafael
+2025-01-25;R$ -371,39;Felipe;Alimentacao;Supermercado semanal
+01-25-2025;-116,20;Rafael;LAZER;Passeio
+2025-01-27;-32,94;Rafael;Streaming;App de musica
+27/01/2025;R$ -51.24;Rafael;ALIMENTACAO;Lanche
+27/01/2025;-59,58;Rafael;Alimentacao;lanche
+2025-01-28;-988,58;Felipe;Educacao;Transferencia para Poupanca
+01-29-2025;R$ -20.38;Rafael;Uber/taxi;Estacionamento
+2025-01-30;-103.93;Calebe;transporte;COMBUSTIVEL
+2025-01-31;-308,37;Felipe;Alimentacao;Supermercado semanal
+01-31-2025;-308,37;Felipe;Mercado;Supermercado semanal
+02-01-2025;R$ -730.58;Felipe;Supermercado;Supermercado semanal
+2025-02-03;-44.04;Felipe;lazer;App de musica
+04/02/2025;-202.50;Calebe;Uber/taxi;combustivel
+2025-02-06;R$ -156.50;Calebe;transporte;Combustivel
+2025-02-06;-63,28;Rafael;Supermercado;
+02-06-2025;-156,50;Calebe;Combustivel;Combustivel *
+2025-02-06;-56,17;Rafael;Supermercado;
+2025-02-07;8000,00;Calebe;salario;SALARIO MENSAL DE CALEBE
+2025-02-07;-3553.60;Calebe;Aluguel;Aluguel residencial
+08/02/2025;-313.15;Calebe;Estudos;Material didatico *
+2025-02-09;-58.26;Rafael;Lazer;app de musica
+2025-03-30;R$ -326.10;Felipe;Farmacia;Exame medico
+2025-02-10;-913,78;Calebe;Combustivel;Parcela carro/seguro
+2025-02-10;-20.20;Felip;Transporte;Estacionamento
+2025-02-10;-20,20;Felip;Uber/taxi;
+;-20.20;Felipe;Transporte;Estacionamento
+02-10-2025;-913.78;Calebe;Uber/taxi;Parcela carro/seguro
+2025-02-10;-913.78;Calebe;Combustivel;Parcela carro/seguro
+2025-02-11;-818,48;Felipe;ALIMENTACAO;Supermercado semanal
+13/02/2025;-86.37;Rafael;alimentacao;Lanche *
+2025-02-13;R$ -43.66;Rafael;ALIMENTACAO;Café/Lanche
+14/02/2025;-158,52;Felipe;Plano de Saude;Consulta
+2025-02-14;-158,52;Felipe;Plano de Saude;consulta
+02-14-2025;-83,23;Rafael;alimentacao;Delivery
+2025-02-14;-16.54;Felippe;Gastos com Carro;Estacionamento
+2025-02-15;4000.00;Felipe;Depósito;Salario mensal de Felipe
+2024-06-01;-8.27;Felipe;transporte;Estacionamento
+2025-02-15;-215,26;Rafael;Streaming;Streaming anual
+2025-02-16;R$ -46.69;Rafael;LAZER;App de musica
+2025-02-17;-32.98;Felipe;Restaurante;
+17/02/2025;-156.60;Calebe ;transporte;Combustivel
+02-17-2025;-831.07;Felipe;alimentacao;Supermercado semanal
+2025-02-17;-32,98;Felipe;ALIMENTACAO;Café/Lanche
+2025-02-17;-89,71;Rafael;lazer;streaming anual
+02-17-2025;R$ -156.60;Calebe;transporte;
+02-19-2025;R$ -56,37;Rafael;Supermercado;Café/Lanche *
+2025-02-19;-27.53;Rafael;Lazer;App de musica
+19/02/2025;-56,37;Rafael;Restaurante;Café/Lanche
+19/02/2025;-16,72;Rafel;Alimentacao;Café/Lanche
+21/02/2025;-31,44;Rafael;ALIMENTACAO;Café/Lanche
+02-21-2025;-89.04;Rafael;Restaurante;lanche
+2025-02-21;R$ -11,16;Rafael;Transporte;ESTACIONAMENTO
+21/02/2025;-30,62;Rafael;Transporte;Estacionamento
+02-22-2025;R$ -24,55;Felipe;Mercado;Café/Lanche
+22/02/2025;-169.43;Calebe;Transporte;
+2025-02-23;R$ -651,76;Felipe;Restaurante;Supermercado semanal
+2025-02-24;-215.31;Calebe;TRANSPORTE;Combustivel
+2025-02-24;-215.31;Calebe;Uber/taxi;combustivel
+02-24-2025;-215.31;Calebe;transporte;Combustivel
+25/02/2025;800.00;Rafael;Salario;Salario mensal de Rafael
+2025-02-25;-48.21;Felipe;Uber/taxi;Estacionamento
+02-25-2025;800.00;Rafael;Pagamento;Salario mensal de Rafael
+2025-02-26;-95,43;Rafael;Restaurante;Delivery *
+27/02/2025;-22,68;Rafael;transporte;Estacionamento
+2025-02-27;-22,68;Rafael;TRANSPORTE;Estacionamento
+2025-02-28;-1342.08;Felipe;Cursos;Transferencia para Poupanca
+2025-03-03;R$ -571.64;Felipe;ALIMENTACAO;Supermercado semanal
+04/03/2025;-54.88;Felipe;alimentacao;Café/Lanche
+04/03/2025;-42.48;Felipe;ALIMENTACAO;Café/Lanche
+2025-03-05;-44,61;Rafael;Supermercado;Café/Lanche
+06/03/2025;-16.21;Felipe;Lazer;App de musica
+;-65,86;Rafael;ALIMENTACAO;Lanche
+03-07-2025;8000.00;Calebe;salario;Salario mensal de Calebe
+2025-03-07;8000.00;Calebe;Salario;SALARIO MENSAL DE CALEBE
+07/03/2025;-3.204,89;Calebe;Moradia;Aluguel residencial
+07/03/2025;8.000,00;Calebe;SALARIO;SALARIO MENSAL DE CALEBE
+2025-03-08;-64,70;Rafael;Alimentacao;Jantar fora
+03-08-2025;-64.70;Rafael;ALIMENTACAO;Jantar fora
+03-08-2025;-64.70;Rafael;Supermercado;
+2025-03-09;-58,56;Rafael;Restaurante;jantar fora
+09/03/2025;-48.06;Rafael;Alimentacao;JANTAR FORA
+10/03/2025;-174,50;Rafael;lazer;Passeio
+2025-03-10;-39,04;Rafael;Alimentacao;Café/Lanche
+03-10-2025;-824,11;Calebe;TRANSPORTE;
+03-10-2025;-139,23;Calebe;TRANSPORTE;Combustivel
+03-10-2025;R$ -139.23;Calebe;Combustivel;Combustivel
+03-11-2025;-73.86;Rafael;ALIMENTACAO;Lanche
+2025-03-11;R$ -73.86;Rafael;Restaurante;Lanche
+2025-03-11;-529,77;Felipe;Alimentacao;Supermercado semanal
+11/03/2025;-343,88;Felipe;Saude;Farmacia
+03-11-2025;-73,86;Rafael;Alimentacao;Lanche
+2025-03-12;-79.51;Rafael;lazer;Show/Evento *
+13/03/2025;-51,87;Rafael;alimentacao;Café/Lanche
+2025-03-14;-34,44;Felipe;Lazer;App de musica
+15/03/2025;-47,58;Rafael;alimentacao;Café/Lanche
+2025-03-15;R$ -47.58;Rafael;Restaurante;Café/Lanche
+03-15-2025;4,000.00;Felipe;Pagamento;Salario mensal de Felipe
+03-16-2025;-531.37;Felipe;Alimentacao;Supermercado semanal
+2025-03-19;R$ -21,55;Rafael;Cinema/Show;App de musica
+22/03/2025;-78.98;Rafael;alimentacao;Lanche
+2025-03-23;-17.23;Rafael;ALIMENTACAO;Café/Lanche
+03-23-2025;R$ -146.48;Calebe;transporte;
+2025-03-23;R$ -146.48;Calebe;TRANSPORTE;Combustivel
+2025-03-23;-17,23;Rafael;Mercado;Café/Lanche
+2025-03-24;R$ -167,16;Calebe;Combustivel;
+03-24-2025;-167,16;Calebe;Gastos com Carro;Combustivel
+03-24-2025;-62,60;Rafael;Supermercado;Lanche
+25/03/2025;-559.80;Felipe;Mercado;Supermercado semanal
+2025-03-25;800,00;Rafael;salario;Salario mensal de Rafael
+2025-03-28;-1118.33;Felipe;EDUCACAO;
+28/03/2025;-39.53;Felipe;Alimentacao;Café/Lanche
+2025-03-28;-56,04;Rafael;Streaming;Cinema
+03-30-2025;R$ -612,66;Felipe;ALIMENTACAO;Supermercado semanal
+2025-03-30;-87.70;Rafael;Supermercado;lanche
+2025-03-30;R$ -326.10;Felipe;Farmacia;Exame medico
+2025-03-30;R$ -87,70;Rafael;alimentacao;Lanche
+2025-01-08;-322,12;Felipe;Mercado;Supermercado semanal
+01-15-2025;-124,67;Rafael;LAZER;Passeio
+2025-03-31;-54,91;Felipe;LAZER;App de musica
+2025-03-31;-172,65;Calebe;Transporte;Combustivel
+2025-03-31;-89,41;Rafael;alimentacao;
+03-31-2025;R$ -54.91;Felip;Cinema/Show;App de musica
+03-31-2025;-12,35;Rafael;alimentacao;café/lanche
+2025-03-31;-54.91;Felip;Cinema/Show;APP DE MUSICA
+01/04/2025;R$ -429.45;Felipe;ALIMENTACAO;Supermercado semanal
+;-80.63;Rafael;Restaurante;Lanche
+2025-04-02;-30.27;Felipe;Entretenimento;App de musica
+05/04/2025;-17,77;Felipe;Alimentacao;Café/Lanche
+2025-04-05;R$ -17,77;Felipe;Supermercado;Café/Lanche
+2025-04-06;R$ -14,30;Felipe;lazer;App de musica
+2025-04-06;R$ -182,88;Felipe;saude;Farmacia
+04-06-2025;-77,93;Rafael;Supermercado;Jantar fora
+04-07-2025;8000,00;Calebe;Salario;Salario mensal de Calebe
+2025-04-07;-2643.06;Calebe;Aluguel;Aluguel residencial
+04-07-2025;-2643.06;Calebe;Aluguel/Moradia;Aluguel residencial *
+01/02/2024;-562,56;Felipe;Alimentacao;Supermercado semanal
+09/04/2025;-397,61;Felipe;ALIMENTACAO;
+;R$ -679,64;Calebe;Gastos com Carro;Parcela carro/seguro
+2025-04-10;-95,61;Rafael;Lazer;Cinema
+2025-04-11;-77,93;Rafael;ALIMENTACAO;Jantar fora
+2025-04-11;-14,18;Felipe;alimentacao;CAFÉ/LANCHE
+;-153.46;Calebe;Transporte;Combustivel
+2025-04-12;-8,55;Rafael;Streaming;App de musica *
+04-12-2025;-153,46;Calebe;TRANSPORTE;COMBUSTIVEL
+04-13-2025;-105,10;Calebe;Estudos;Assinatura educacional
+2025-04-13;R$ -105.10;Calebe;Cursos;Assinatura educacional
+2025-04-14;-141.39;Calebe;Uber/taxi;COMBUSTIVEL
+14/04/2025;-22,39;Felipe;Uber/taxi;Estacionamento
+04-14-2025;-141,39;Calebe;Gastos com Carro;Combustivel
+04-14-2025;-141,39;Calebe;TRANSPORTE;Combustivel
+14/04/2025;-71.81;Rafael;ALIMENTACAO;Lanche *
+2025-04-15;-102,90;Rafaell;Estudos;
+15/04/2025;4000,00;Felipe;SALARIO;Salario mensal de Felipe
+2025-04-16;-19,44;Felipe;Entretenimento;App de musica
+2025-04-17;-28,35;Felipe;transporte;Estacionamento
+2025-04-17;-25,53;Rafael;Restaurante;Jantar fora
+17/04/2025;-392.53;Felipe;Supermercado;Supermercado semanal
+17/04/2025;R$ -392.53;Felipe;alimentacao;Supermercado semanal
+2025-04-18;-101.45;Rafael;Entretenimento;Streaming anual
+18/04/2025;-77,65;Rafael;ALIMENTACAO;Delivery
+04-18-2025;R$ -69,88;Rafaell;Alimentacao;Delivery
+2025-04-18;-90.73;Felipe;Consulta;Consulta
+04-18-2025;-101.45;Rafael;Cinema/Show;Streaming anual
+2025-04-18;-101.45;Rafael;Cinema/Show;
+04-19-2025;-136,21;Rafael;lazer;Streaming anual
+19/04/2025;-136,21;Rafael;LAZER;Streaming anual
+19/04/2025;-23,36;Felipe;Alimentacao;Café/Lanche
+04-20-2025;-30.93;Rafael;Mercado;Lanche
+23/04/2025;R$ -12.04;Rafael;alimentacao;Café/Lanche
+2025-04-23;-12,04;Rafael;Restaurante;Café/Lanche
+04-23-2025;-38.76;Felipe;Cinema/Show;App de musica
+23/04/2025;-350.55;Felipe;Alimentacao;Supermercado semanal
+2025-04-24;-150,08;Calebe;Uber/taxi;Combustivel *
+24/04/2025;-21.38;Rafael;Alimentacao;
+2025-04-24;-21.38;Rafael;ALIMENTACAO;Delivery
+04-25-2025;R$ 800.00;Rafael;SALARIO;Salario mensal de Rafael
+2025-04-25;R$ -22.60;Rafael;Uber/taxi;Estacionamento
+2025-04-26;-32.23;Felipe;Supermercado;CAFÉ/LANCHE
+04-26-2025;-32,23;Felipe;Restaurante;Café/Lanche
+04-26-2025;R$ -32.23;Felipe;Supermercado;CAFÉ/LANCHE
+2025-04-26;-32,23;Felipe;Mercado;Café/Lanche
+28/04/2025;-122.08;Calebe;Uber/taxi;Combustivel
+28/04/2025;R$ -1066.88;Felipe;Assinatura;Transferencia para Poupanca
+2025-04-29;-40.51;Rafael;lazer;App de musica
+29/04/2025;-35.29;Felipe;ALIMENTACAO;Café/Lanche
+2025-04-30;-398.63;Felipe;Restaurante;SUPERMERCADO SEMANAL
+2025-05-01;-18.63;Rafael;Combustivel;Estacionamento
+03/05/2025;-37,27;Rafael;Uber/taxi;estacionamento
+2025-05-03;-104,62;Calebe;Gastos com Carro;Combustivel
+2025-05-03;-422,44;Felipe;Restaurante;supermercado semanal
+03/05/2025;R$ -37,16;Rafael;Mercado;Delivery
+2025-05-03;-12.20;Rafael;Combustivel;Estacionamento
+05-03-2025;-37.16;Rafael;alimentacao;Delivery *
+2025-05-03;-13,56;Rafael;Gastos com Carro;
+05/05/2025;-9.05;Rafael;Mercado;Café/Lanche
+05/05/2025;-9,05;Rafael;Mercado;Café/Lanche
+2025-05-06;-11.23;Rafael;Uber/taxi;Estacionamento
+05-06-2025;-43.65;Felipe;LAZER;App de musica
+06/05/2025;-11,23;Rafael;transporte;Estacionamento
+07/05/2025;-106,09;Rafael;Cinema/Show;Show/Evento
+2025-05-07;-2592,76;Calebe;Aluguel/Moradia;Aluguel residencial
+2025-05-07;8000.00;Calebe;salario;salario mensal de calebe
+2025-05-08;-433.44;Felipe;ALIMENTACAO;Supermercado semanal
+09/05/2025;-43.67;Rafael;Restaurante;Jantar fora
+09/05/2025;-43.67;Rafael;alimentacao;JANTAR FORA
+2025-05-10;-666,71;Calebe;Combustivel;Parcela carro/seguro
+05-12-2025;-41,96;Rafael;Transporte;Estacionamento
+12/05/2025;-41,96;Rafael;transporte;Estacionamento
+2025-05-12;-41.96;Rafael;Combustivel;Estacionamento
+2025-05-12;-22,13;Rafael;Entretenimento;App de musica
+2025-05-12;R$ -41.96;Rafael;Gastos com Carro;Estacionamento
+05-12-2025;-22,13;Rafael;Cinema/Show;App de musica
+05-12-2025;-41,96;Rafael;transporte;Estacionamento
+05-12-2025;-41.96;Rafael;Gastos com Carro;estacionamento
+2025-05-13;-19.60;Felipe;Entretenimento;App de musica
+13/05/2025;-23.39;Rafael ;Streaming;app de musica
+2025-05-13;-19.41;Felipe;transporte;Estacionamento
+2025-05-15;-145.48;Rafael;Entretenimento;Show/Evento *
+2025-05-15;R$ 4000,00;Felipe;SALARIO;salario mensal de felipe
+2025-05-15;-17,37;Felipe;Supermercado;Café/Lanche
+15/05/2025;-19,30;Felipe;Restaurante;café/lanche
+2025-05-16;-459,39;Felipe;ALIMENTACAO;Supermercado semanal
+2025-05-17;-43,37;Felipe;Combustivel;Estacionamento
+05-19-2025;-116.84;Feli pe;Consulta;Consulta
+20/05/2025;-136,77;Calebe;Combustivel;Combustivel
+2025-05-20;-136,77;Calebe;Uber/taxi;Combustivel
+05-21-2025;-68.79;Rafael;Entretenimento;Passeio *
+21/05/2025;-41,07;Rafael;alimentacao;Delivery
+2025-05-21;-27.94;Felipe;Restaurante;café/lanche
+23/05/2025;-478.01;Felipe;Supermercado;Supermercado semanal
+05-24-2025;-37,77;Rafael;LAZER;app de musica
+05-24-2025;-37.77;Rafael;LAZER;app de musica
+06-17-2024;-507,33;Felipe;Alimentacao;Supermercado semanal
+2025-05-25;R$ -58,12;Rafael;Cinema/Show;Streaming anual
+26/05/2025;-154,64;Rafael;Lazer;Passeio
+2025-05-27;-111.34;Calebe ;Combustivel;Combustivel
+2025-05-27;-123.71;Calebe;Gastos com Carro;Combustivel
+05-27-2025;-43.91;Rafael;Alimentacao;LANCHE
+28/05/2025;-1123,88;Calebe;Cursos;Transferencia para Poupanca
+2025-05-28;-101.63;Calebe;Combustivel;COMBUSTIVEL
+28/05/2025;-56,28;Rafael;Streaming;Passeio
+05-28-2025;-1123.88;Calebe;Cursos;Transferencia para Poupanca
+28/05/2025;-56,28;Rafael;lazer;Passeio
+2025-05-30;R$ -435.57;Felipe;Alimentacao;Supermercado semanal
+;-435,57;Felipe;Alimentacao;SUPERMERCADO SEMANAL
+30/05/2025;-435,57;Felipe;ALIMENTACAO;Supermercado semanal *
+2025-05-30;-435,57;Felipe;Supermercado;
+;-24.51;Rafael;Alimentacao;Café/Lanche
+2025-05-31;-15,35;Felipe;Uber/taxi;Estacionamento
+2025-05-31;-21.43;Felipe-M;Entretenimento;App de musica
+06-03-2025;-40.07;Rafaell;alimentacao;DELIVERY
+2025-06-03;-40.07;Rafael;Restaurante;
+2025-06-04;-801,10;Felipe;alimentacao;Supermercado semanal
+04/06/2025;-49.51;Felipe;Restaurante;CAFÉ/LANCHE
+2025-06-04;-801,10;Felipe;alimentacao;
+05/06/2025;-124.68;Calebe;TRANSPORTE;COMBUSTIVEL
+2025-06-06;-75,62;Rafael;ALIMENTACAO;JANTAR FORA
+2025-06-06;-75,62;Rafael;Restaurante;Jantar fora
+2025-06-06;8.000,00;Calebe;salario;Salario mensal de Calebe
+2025-06-07;-16,90;Rafael;Restaurante;Café/Lanche
+07/06/2025;-16,90;Rafael;ALIMENTACAO;Café/Lanche
+2025-06-07;R$ -3483,83;Calebe;moradia;Aluguel residencial
+2025-06-09;-98,16;Rafael;Supermercado;
+09/06/2025;-199.58;Rafael;Streaming;Show/Evento
+2025-06-10;-895,84;Calebe;TRANSPORTE;Parcela carro/seguro
+10/06/2025;R$ -213,18;Rafael;Lazer;Streaming anual
+2025-06-10;-788.35;Felipe;ALIMENTACAO;Supermercado semanal
+2025-06-10;-213.18;Rafael ;Entretenimento;Streaming anual
+10/06/2025;-788.35;Felipe;Alimentacao;Supermercado semanal
+2025-06-10;R$ -213.18;Rafael;Lazer;Streaming anual
+12/06/2025;-40,75;Felipe;Restaurante;
+;R$ -28,37;Felipe;Lazer;App de musica
+2025-06-15;4.000,00;Felipe;SALARIO;Salario mensal de Felipe
+06-15-2025;-14,77;Felipe;Streaming;App de musica
+15/06/2025;4.000,00;Felipe;salario;Salario mensal de Felipe
+15/06/2025;R$ -106,80;Rafael;EDUCACAO;Curso online
+2025-06-16;-33,03;Felipe;Transporte;Estacionamento
+16/06/2025;-856,81;Felip;Mercado;Supermercado semanal
+17/06/2025;-211.77;Calebe;Gastos com Carro;Combustivel
+17/06/2025;-120.97;Felipe;Consulta;Exame medico
+06-17-2025;-120.97;Felipe;Consulta;
+2025-06-18;-35.95;Felipe;TRANSPORTE;Estacionamento
+06-18-2025;-43,22;Felipe;Alimentacao;Café/Lanche
+18/06/2025;-35.95;Felipe;TRANSPORTE;Estacionamento
+2025-06-18;-43.22;Felipe;Alimentacao;Café/Lanche
+20/06/2025;-40.17;Rafael;Gastos com Carro;Estacionamento
+06-21-2025;-213.56;Calebe;Transporte;Combustivel
+2025-01-28;-988,58;Felipe;Educacao;TRANSFERENCIA PARA POUPANCA
+2025-06-22;-700.23;Felipe;Supermercado;supermercado semanal
+22/06/2025;-700,23;Felipe;alimentacao;Supermercado semanal
+22/06/2025;-11.15;Rafa;Uber/taxi;Estacionamento
+2025-06-24;-56,16;Rafael;Mercado;Delivery
+06-30-2024;-48,94;Rafael;Supermercado;Jantar fora
+25/06/2025;-33,93;Felipe;Lazer;App de musica
+2025-06-25;-33,93;Felipe;lazer;App de musica
+;-178.91;Calebe;Gastos com Carro;Combustivel
+26/06/2025;-24,11;Rafael;Mercado;
+26/06/2025;-154,37;Rafael;LAZER;PASSEIO
+2025-06-27;-60,16;Rafael;Mercado;Lanche
+06-27-2025;-78.32;Rafael;alimentacao;JANTAR FORA
+06-27-2025;-60.16;Rafael;alimentacao;LANCHE
+2025-06-28;-1,774.42;Calebe;EDUCACAO;Transferencia para Poupanca
+29/06/2025;-30.11;Felipe;Transporte;Estacionamento
+2025-06-30;-195.99;Rafael;lazer;
+2025-06-30;-195.99;Rafael;lazer;streaming anual
+;R$ -697,92;Felipe;alimentacao;supermercado semanal
