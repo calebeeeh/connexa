@@ -9,7 +9,7 @@ from google.genai import types
 # --- INICIALIZAÇÃO GLOBAL ---
 try:
     client = genai.Client()
-    LLM_MODEL = 'gemini-2.5-flash'
+    LLM_MODEL = 'gemini-1.0-pro'
 except Exception as e:
     print(f"ERRO DE CLIENTE LLM: Falha ao iniciar o Gemini Client. Detalhes: {e}")
     sys.exit(1)
