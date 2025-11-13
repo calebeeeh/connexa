@@ -1,23 +1,27 @@
 # src/llm_processor.py
 
 import sys
-import os # Necessário para ler a variável de ambiente da OpenAI
+import os # Importado para ler a chave de API
 import requests
+from openai import OpenAI 
 
-# --- CLIENTE E FERRAMENTAS ---
-from openai import OpenAI # Cliente oficial da OpenAI
+# Importamos funções do backend para quebrar o ciclo
 from src.database_utils import executar_query_dinamica, DynamicQuery 
-from src.database_utils import get_db_connection # Necessário para o main block (se for usado)
+from src.database_utils import get_db_connection 
 
 
 # --- 1. INICIALIZAÇÃO GLOBAL (AGORA USANDO OPENAI) ---
 try:
-    # 🚨 CRÍTICO: O cliente busca a chave na variável de ambiente 'OPENAI_API_KEY'
-    # O valor da chave deve ser configurado no painel da Render.
-    client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY")) 
-    LLM_MODEL = 'gpt-3.5-turbo' # Modelo estável e rápido para raciocínio
+    # CRÍTICO: Lê a chave diretamente da variável de ambiente (Render/OS)
+    openai_key = os.environ.get("OPENAI_API_KEY")
+    if not openai_key:
+        # Se a chave não for definida (ex: em teste local sem 'set'), falha explicitamente
+        raise ValueError("A variável OPENAI_API_KEY não foi definida.")
+        
+    client = OpenAI(api_key=openai_key)
+    LLM_MODEL = 'gpt-3.5-turbo' # Modelo estável e eficiente
 except Exception as e:
-    print(f"ERRO DE CLIENTE LLM: Falha ao iniciar o OpenAI Client. Verifique a chave de API. Detalhes: {e}")
+    print(f"ERRO DE CLIENTE LLM: Falha ao iniciar o OpenAI Client. Detalhes: {e}")
     sys.exit(1)
 
 
@@ -33,19 +37,17 @@ def gerar_plano_connexa(meta_usuario: str, prazo_meses: int, membro_foco: str, c
     
     try:
         query_object = DynamicQuery(query=sql_gasto_foco)
-        # Executando a query no Backend
         resultado_gasto = executar_query_dinamica(query_object)
         gasto_critico_total = resultado_gasto['resultado']['total_gasto_foco'] * -1
         
     except Exception as e:
-        # Captura erros de DB ou de cálculo no Backend
         return f"Falha na busca de dados para {membro_foco} em {categoria_foco}. Erro: {e}"
 
     # 2. INJEÇÃO DE CONTEXTO E CÁLCULO DE METAS
     baseline_poupanca = 2703.11 
     meta_mensal_requerida = 10000 / prazo_meses 
     
-    # CRIAÇÃO DO PROMPT MESTRE (Onde o NLP e o Dado se encontram)
+    # CRIAÇÃO DO PROMPT MESTRE (Com todas as Features injetadas)
     prompt_mestre = f"""
     Você é o Consultor Financeiro Connexa, focado em planos motivacionais.
 
